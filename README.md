@@ -30,4 +30,4 @@ Spend data lived in two separate tables with slightly different schemas (Faceboo
 Query result tables, screenshots, and charts: [Google Drive folder link]
 
 ## 🔗 Related
-Part of a two-project GOIT Academy Data Analytics series. See also the companion project: **E-commerce Funnel & Engagement Analysis (GA4, BigQuery)** — [repo link]
+Part of a two-project GOIT Academy Data Analytics series. See also the companion project: **E-commerce Funnel & Engagement Analysis (GA4, BigQuery)** — https://github.com/ekasram/Project-2-E-commerce-Funnel-Engagement-Analysis-GA4-BigQuery-.git
